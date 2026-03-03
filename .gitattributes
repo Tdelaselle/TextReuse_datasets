@@ -1,0 +1,6 @@
+latin_reuses_sat-seg.tsv filter=lfs diff=lfs merge=lfs -text
+latin_reuses_sets.tsv filter=lfs diff=lfs merge=lfs -text
+Latin_reuses/latin_reuses_tags.tsv filter=lfs diff=lfs merge=lfs -text
+Latin_reuses/latin_reuses_sets.tsv filter=lfs diff=lfs merge=lfs -text
+Latin_reuses/latin_reuses_sat-seg.tsv filter=lfs diff=lfs merge=lfs -text
+Latin_reuses/latin_reuses_sentences.tsv filter=lfs diff=lfs merge=lfs -text

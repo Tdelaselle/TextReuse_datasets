@@ -1,0 +1,20 @@
+# Ignore Greek reuses data
+Greek_reuses/
+Biblical_data/LXX+NTG.tsv
+
+# Ignore Python scripts related to Greek
+2-Greek-*.py
+
+# Ignore Python cache and environment
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Ignore other common files
+*.log
+*.tmp
+
+# Ignore source files
+Latin_reuses/Source_files/
+Latin_reuses/Ref_normalized_files/
